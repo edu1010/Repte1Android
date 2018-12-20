@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">geoQuizDAm2</string>
+    <string name="respuesta"></string>
+    <string name="pregunta"></string>
+    <string name="title_activity_pista">pista</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
