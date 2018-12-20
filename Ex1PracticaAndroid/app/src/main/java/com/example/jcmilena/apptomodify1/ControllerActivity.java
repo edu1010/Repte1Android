@@ -43,7 +43,6 @@ public class ControllerActivity extends AppCompatActivity implements EasyFragmen
             Fragment fragment = EasyFragment.newInstance("1",R.color.colorFragment1);
             fm.beginTransaction().replace(R.id.fragment_container1, fragment,"Frag1").commit();
 
-
         }
 
     }
